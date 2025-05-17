@@ -69,15 +69,15 @@ Follow these steps to install the extension manually from this repository:
 ## 📁 File Structure
 
 token_checker/
-├── manifest.json # Extension configuration
-├── popup.html # Token input UI
-├── popup.js # Token input logic
-├── loading.html # Scanning progress UI
-├── loading.js # Scanning logic
-├── token_info.html # Results display UI
-├── token_info.js # Results logic
-├── styles.css # Shared styling
-└── README.md # Project documentation
+├── manifest.json       # Extension configuration
+├── popup.html          # Token input UI
+├── popup.js            # Token input logic
+├── loading.html        # Scanning progress UI
+├── loading.js          # Scanning logic
+├── token_info.html     # Results display UI
+├── token_info.js       # Results logic
+├── styles.css          # Shared styling
+└── README.md           # Project documentation
 
 ---
 
